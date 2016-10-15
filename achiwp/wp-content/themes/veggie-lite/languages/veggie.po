@@ -1,0 +1,234 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Veggie Lite\n"
+"POT-Creation-Date: 2015-10-09 09:18+0100\n"
+"PO-Revision-Date: 2015-10-09 09:18+0100\n"
+"Last-Translator: \n"
+"Language-Team: Anariel Design\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_nx;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../veggie-lite/404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../veggie-lite/404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: ../veggie-lite/404.php:27
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smilie
+#: ../veggie-lite/404.php:44
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: ../veggie-lite/author-bio.php:11
+msgid "Published by"
+msgstr ""
+
+#: ../veggie-lite/author-bio.php:35
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../veggie-lite/comments.php:29
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: ../veggie-lite/comments.php:49
+msgid "Comment navigation"
+msgstr ""
+
+#: ../veggie-lite/comments.php:52
+msgid "Older Comments"
+msgstr ""
+
+#: ../veggie-lite/comments.php:53
+msgid "Newer Comments"
+msgstr ""
+
+#: ../veggie-lite/comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: ../veggie-lite/footer.php:56
+#, php-format
+msgid "Theme: %1$s."
+msgstr ""
+
+#: ../veggie-lite/functions.php:73
+msgid "Primary Menu"
+msgstr ""
+
+#: ../veggie-lite/functions.php:74
+msgid "Social Menu"
+msgstr ""
+
+#: ../veggie-lite/functions.php:113
+msgid "Sidebar"
+msgstr ""
+
+#: ../veggie-lite/functions.php:123
+msgid "Front Page Widgetized Block"
+msgstr ""
+
+#: ../veggie-lite/functions.php:133
+msgid "Footer Widgets 1"
+msgstr ""
+
+#: ../veggie-lite/functions.php:143
+msgid "Footer Widgets 2"
+msgstr ""
+
+#: ../veggie-lite/functions.php:153
+msgid "Footer Widgets 3"
+msgstr ""
+
+#: ../veggie-lite/functions.php:258
+#, php-format
+msgid ""
+"Continue reading <span class=\"screen-reader-text\">%1$s</span> <span class="
+"\"meta-nav\" aria-hidden=\"true\">&rarr;</span>"
+msgstr ""
+
+#: ../veggie-lite/functions.php:305
+msgid "Edit"
+msgstr ""
+
+#: ../veggie-lite/functions.php:310
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../veggie-lite/header.php:22
+msgid "Skip to content"
+msgstr ""
+
+#: ../veggie-lite/header.php:48
+msgid "Search"
+msgstr ""
+
+#: ../veggie-lite/header.php:81
+msgid "Menu"
+msgstr ""
+
+#: ../veggie-lite/inc/customizer.php:19
+msgid "Theme Options"
+msgstr ""
+
+#: ../veggie-lite/inc/customizer.php:30
+msgid "Hide Search Box"
+msgstr ""
+
+#: ../veggie-lite/inc/customizer.php:39 ../veggie-lite/inc/customizer.php:47
+msgid "Logo"
+msgstr ""
+
+#: ../veggie-lite/inc/customizer.php:41
+msgid ""
+"Upload a logo to replace the default site name and description in the header"
+msgstr ""
+
+#: ../veggie-lite/inc/customizer.php:56 ../veggie-lite/inc/customizer.php:67
+msgid "Custom CSS"
+msgstr ""
+
+#: ../veggie-lite/inc/template-tags.php:21
+msgid "Leave a comment"
+msgstr ""
+
+#: ../veggie-lite/inc/template-tags.php:21
+msgid "1 Comment"
+msgstr ""
+
+#: ../veggie-lite/inc/template-tags.php:21
+msgid "% Comments"
+msgstr ""
+
+#: ../veggie-lite/inc/template-tags.php:26
+#: ../veggie-lite/inc/template-tags.php:95
+#: ../veggie-lite/template-parts/content-page.php:21
+#: ../veggie-lite/template-parts/content-page.php:37
+#, php-format
+msgid "Edit %1$s"
+msgstr ""
+
+#: ../veggie-lite/inc/template-tags.php:58
+#, php-format
+msgid "by %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: ../veggie-lite/inc/template-tags.php:83
+#: ../veggie-lite/inc/template-tags.php:89
+msgid ", "
+msgstr ""
+
+#: ../veggie-lite/inc/template-tags.php:85
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: ../veggie-lite/inc/template-tags.php:91
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: ../veggie-lite/search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../veggie-lite/single.php:18 ../veggie-lite/single.php:41
+msgid "<span class=\"meta-nav\">Next Post</span> %title"
+msgstr ""
+
+#: ../veggie-lite/single.php:18 ../veggie-lite/single.php:41
+msgid "<span class=\"meta-nav\">Previous Post</span> %title"
+msgstr ""
+
+#: ../veggie-lite/template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: ../veggie-lite/template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../veggie-lite/template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../veggie-lite/template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../veggie-lite/template-parts/content-page.php:29
+#: ../veggie-lite/template-parts/content-single.php:34
+#: ../veggie-lite/template-parts/content.php:36
+msgid "Pages:"
+msgstr ""
+
+#: ../veggie-lite/template-parts/content.php:29
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""

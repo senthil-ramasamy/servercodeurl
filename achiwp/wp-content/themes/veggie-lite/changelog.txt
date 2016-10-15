@@ -1,0 +1,4 @@
+= Veggie Lite change log =
+
+Version 1.0.7 - March 19, 2016
+-fix for the search page (continue reading) - changes inside the style.css and functions.php files
